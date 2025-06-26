@@ -31,8 +31,17 @@ Libraries used: Pandas, NumPy, BeautifulSoup, Requests, Matplotlib, Seaborn.
 
 
 # SQL 
-- if you want to access SQL file (click here) ----> [https://github.com/Ruchii151/Wedding-Venues-Analysis/tree/main/SQL%20-%20Analysis](https://github.com/Ruchii151/Wedding-Venues-Analysis/tree/main/SQL%20-%20Analysis)
-- access PPT from here:
 
- ![image](https://github.com/user-attachments/assets/28085670-bd8e-4a63-9acf-3ab96d16d9ea)
+![image](https://github.com/user-attachments/assets/28085670-bd8e-4a63-9acf-3ab96d16d9ea)
+
+
+
+
+
+# Power BI Report
+
+![Screenshot 2025-06-26 134258](https://github.com/user-attachments/assets/1cbb1f14-321a-42f1-946b-0381e983e589)
+
+
+
 
