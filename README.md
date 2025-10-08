@@ -45,3 +45,9 @@ Libraries used: Pandas, NumPy, BeautifulSoup, Requests, Matplotlib, Seaborn.
 
 
 
+
+
+# Machine Learning 
+<img width="1410" height="613" alt="image" src="https://github.com/user-attachments/assets/1c43e70c-da9d-4a70-88ca-60f2e7ebdf61" />
+
+<img width="554" height="740" alt="image" src="https://github.com/user-attachments/assets/d9e7bc97-f77e-40d8-8144-f65fcae89029" />
